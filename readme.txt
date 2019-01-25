@@ -1,2 +1,2 @@
-
+acceptanceTest
 com.cgm.step_definition.DummyTestWebappSteps
